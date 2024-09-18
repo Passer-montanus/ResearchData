@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C20220278</folder>
+	<filename>1971.jpg</filename>
+	<path>D:\工作\图\胃癌\胃癌11.10\C20220278\1971.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>603</xmin>
+			<ymin>310</ymin>
+			<xmax>775</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>
