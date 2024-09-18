@@ -1,4 +1,4 @@
-# Medical Image Analysis Dataset
+# HE staining images of serous effusion cells
 
 This repository contains the dataset used for the **Medical Image Analysis**. The dataset is pre-split into training, validation, and test sets, with corresponding annotations in two formats: TXT and XML.
 
