@@ -1,6 +1,6 @@
 # HE staining images of serous effusion cells
 
-This repository contains the dataset used for the **Medical Image Analysis**. The dataset is pre-split into training, validation, and test sets, with corresponding annotations in two formats: TXT and XML.
+This repository contains the serous effusion cells dataset used for the **Medical Image Analysis**. The dataset is pre-split into training, validation, and test sets, with corresponding annotations in two formats: TXT and XML.
 
 ## Repository Structure
 
@@ -15,6 +15,6 @@ This repository contains the dataset used for the **Medical Image Analysis**. Th
 
 ## Usage
 
-1. Download the repository by cloning it or directly from GitHub.
+ Download the repository by cloning it or directly from GitHub.
    ```bash
    git clone https://github.com/Passer-montanus/ResearchData-for-MIA
