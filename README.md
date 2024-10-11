@@ -1,6 +1,6 @@
 # HE staining images of serous effusion cells
 
-This repository contains the serous effusion cells dataset used for the **Medical Image Analysis**. The dataset is pre-split into training, validation, and test sets, with corresponding annotations in two formats: TXT and XML.
+This repository contains the serous effusion cells dataset used for the **Computer Methods and Programs in Biomedicine**. The dataset is pre-split into training, validation, and test sets, with corresponding annotations in two formats: TXT and XML.
 
 ## Repository Structure
 
