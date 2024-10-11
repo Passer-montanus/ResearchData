@@ -17,4 +17,4 @@ This repository contains the serous effusion cells dataset used for the **Comput
 
  Download the repository by cloning it or directly from GitHub.
    ```bash
-   git clone https://github.com/Passer-montanus/ResearchData-for-MIA
+   git clone https://github.com/Passer-montanus/ResearchData
